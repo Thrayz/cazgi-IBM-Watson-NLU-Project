@@ -10,7 +10,7 @@ class EmotionTable extends React.Component {
                 return(
                     <>
                     <tr>
-                    <td>{ems}</td>
+                    <td>{em}</td>
                     <td>{emotionstomap[em]}</td>
                     </tr>
                     </>
